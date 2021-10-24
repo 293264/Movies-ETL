@@ -1,1 +1,2 @@
 # Movies-ETL
+The objective of this challenge was to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads it into existing tables. For this task, I needed to refactor codes from the module to create a function that will take three files -- Wikipedia data, Kaggle metadata, and MovieLens ratings -- and perform the ETL process by adding the files to a PostgreSQL database.
